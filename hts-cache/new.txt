@@ -1,6 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-12:43:57	331/331	---M--	403	error ('Forbidden')	text/html	date:Tue,%2027%20Sep%202016%2005:43:58%20GMT	http://tinnguoivkl.com/robots.txt		(from )
-12:43:57	13207/13207	---M--	200	added ('OK')	text/html	etag:%222c20538-3397-53cc9092d619e%22	http://tinnguoivkl.com/	C:/Users/Administrator/Desktop/believepeoplevkl/tinnguoivkl.com/index.html	(from )
-12:43:59	320/320	---M--	403	error ('Forbidden')	text/html	date:Tue,%2027%20Sep%202016%2005:43:59%20GMT	http://labs.nikrowell.com/lightsandmotion/ultraviolet/images/logo.png	C:/Users/Administrator/Desktop/believepeoplevkl/labs.nikrowell.com/lightsandmotion/ultraviolet/images/logo.2.delayed	(from http://tinnguoivkl.com/)
-12:44:01	32628/32628	---M--	200	added ('OK')	image/jpeg	etag:%2276f6d9bb801667d35b5abd339b4062bb%22	http://i.imgur.com/Az8imQh.jpg	C:/Users/Administrator/Desktop/believepeoplevkl/i.imgur.com/Az8imQh.jpg	(from http://tinnguoivkl.com/)
-12:44:05	161060/161060	---M--	200	added ('OK')	image/png	etag:%22afa94bcd42a17e727b6f4220781f206c%22	http://i.imgur.com/2CrEfRf.png	C:/Users/Administrator/Desktop/believepeoplevkl/i.imgur.com/2CrEfRf.png	(from http://tinnguoivkl.com/)
